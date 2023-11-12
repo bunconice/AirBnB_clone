@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module creates the Amenity class"""
+"""This module create the Amenity class"""
 
 from models.base_model import BaseModel
 
