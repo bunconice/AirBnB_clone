@@ -74,5 +74,5 @@ $
 
 ## Authors
 
-Stanley Ibeneme
-Bunmi Akinola
+* Stanley Ibeneme
+* Bunmi Akinola
